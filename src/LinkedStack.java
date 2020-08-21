@@ -76,5 +76,5 @@ class LinkedStack {
 
 	}
 }
-
+//Time complexity is O(N)
 
